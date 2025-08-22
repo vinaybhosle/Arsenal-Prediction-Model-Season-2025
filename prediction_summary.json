@@ -1,0 +1,126 @@
+{
+  "most_likely_cup": "Premier League",
+  "most_likely_probability": 0.25,
+  "earliest_possible_win": "2026-02-28",
+  "latest_possible_win": "2026-05-30",
+  "total_trophy_probability": 0.5,
+  "squad_analysis": {
+    "key_players": [
+      {
+        "name": "Bukayo Saka",
+        "position": "RW",
+        "rating": 9.2,
+        "impact": "High",
+        "availability": 0.85
+      },
+      {
+        "name": "Martin \u00d8degaard",
+        "position": "CAM",
+        "rating": 8.8,
+        "impact": "High",
+        "availability": 0.82
+      },
+      {
+        "name": "Declan Rice",
+        "position": "CDM",
+        "rating": 8.7,
+        "impact": "High",
+        "availability": 0.88
+      },
+      {
+        "name": "William Saliba",
+        "position": "CB",
+        "rating": 8.9,
+        "impact": "High",
+        "availability": 0.9
+      },
+      {
+        "name": "Gabriel Magalh\u00e3es",
+        "position": "CB",
+        "rating": 8.5,
+        "impact": "High",
+        "availability": 0.87
+      },
+      {
+        "name": "Viktor Gy\u00f6keres",
+        "position": "ST",
+        "rating": 8.6,
+        "impact": "High",
+        "availability": 0.95
+      },
+      {
+        "name": "Mart\u00edn Zubimendi",
+        "position": "CDM",
+        "rating": 8.4,
+        "impact": "Medium-High",
+        "availability": 0.9
+      },
+      {
+        "name": "Gabriel Martinelli",
+        "position": "LW",
+        "rating": 8.1,
+        "impact": "Medium-High",
+        "availability": 0.83
+      }
+    ]
+  },
+  "historical_patterns": {
+    "fa_cup_wins_by_decade": {
+      "1930s": 2,
+      "1950s": 1,
+      "1970s": 2,
+      "1990s": 2,
+      "2000s": 4,
+      "2010s": 3,
+      "2020s": 1
+    },
+    "arteta_cup_record": {
+      "fa_cup_wins": 1,
+      "fa_cup_finals": 1,
+      "win_rate_cups": 0.6,
+      "years_as_manager": 5.5
+    }
+  },
+  "tactical_analysis": {
+    "strengths": {
+      "defensive_solidity": {
+        "rating": 9.2,
+        "cup_impact": "High"
+      },
+      "set_piece_threat": {
+        "rating": 8.4,
+        "cup_impact": "Very High"
+      },
+      "squad_rotation": {
+        "rating": 8.1,
+        "cup_impact": "High"
+      },
+      "big_game_mentality": {
+        "rating": 7.8,
+        "cup_impact": "Medium"
+      },
+      "tactical_flexibility": {
+        "rating": 8.6,
+        "cup_impact": "High"
+      }
+    },
+    "weaknesses": {
+      "converting_dominance": {
+        "rating": 6.8,
+        "cup_impact": "High"
+      },
+      "penalty_shootouts": {
+        "rating": 7.2,
+        "cup_impact": "Medium"
+      },
+      "injury_management": {
+        "rating": 7.0,
+        "cup_impact": "High"
+      },
+      "away_form_consistency": {
+        "rating": 7.5,
+        "cup_impact": "Medium"
+      }
+    }
+  }
+}

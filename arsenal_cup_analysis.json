@@ -1,0 +1,172 @@
+{
+  "arsenal_cup_history": {
+    "FA_Cup": {
+      "total_wins": 14,
+      "last_win": 2020,
+      "recent_finals": [
+        2017,
+        2020
+      ],
+      "recent_performance": "Strong - most successful FA Cup team in history"
+    },
+    "EFL_Cup": {
+      "total_wins": 2,
+      "last_win": 1993,
+      "recent_finals": [],
+      "recent_performance": "Poor - 32 years without a win"
+    },
+    "Premier_League": {
+      "total_wins": 13,
+      "last_win": 2004,
+      "recent_performance": "Runners-up last 3 seasons (2022-23, 2023-24, 2024-25)"
+    },
+    "Champions_League": {
+      "total_wins": 0,
+      "best_recent": "Semi-finals 2024-25",
+      "recent_performance": "Improving - semi-finals for first time since 2009"
+    }
+  },
+  "current_season_data": {
+    "season": "2025-26",
+    "manager": "Mikel Arteta",
+    "key_signings": [
+      {
+        "player": "Viktor Gy\u00f6keres",
+        "position": "Striker",
+        "fee": "\u20ac65.8m",
+        "from": "Sporting Lisbon"
+      },
+      {
+        "player": "Mart\u00edn Zubimendi",
+        "position": "DM",
+        "fee": "\u20ac70m",
+        "from": "Real Sociedad"
+      },
+      {
+        "player": "Noni Madueke",
+        "position": "RW",
+        "fee": "\u20ac56m",
+        "from": "Chelsea"
+      },
+      {
+        "player": "Cristhian Mosquera",
+        "position": "CB",
+        "fee": "\u20ac15m",
+        "from": "Valencia"
+      },
+      {
+        "player": "Christian N\u00f8rgaard",
+        "position": "DM",
+        "fee": "\u20ac11.6m",
+        "from": "Brentford"
+      }
+    ],
+    "squad_depth_rating": 8.5,
+    "defensive_record": "Best in league last 2 seasons",
+    "attacking_upgrade": "Significant with Gy\u00f6keres addition"
+  },
+  "competitions_2025_26": {
+    "FA_Cup": {
+      "entry_round": "Third Round",
+      "entry_date": "2026-01-10",
+      "final_date": "2026-05-16",
+      "estimated_probability": 0.18,
+      "key_factors": [
+        "Historical success",
+        "Squad depth",
+        "Arteta cup record"
+      ]
+    },
+    "EFL_Cup": {
+      "entry_round": "Third Round",
+      "entry_date": "2025-09-23",
+      "final_date": "2026-02-28",
+      "estimated_probability": 0.12,
+      "key_factors": [
+        "Squad rotation",
+        "Lower priority",
+        "Poor recent history"
+      ]
+    },
+    "Premier_League": {
+      "start_date": "2025-08-17",
+      "end_date": "2026-05-24",
+      "estimated_probability": 0.25,
+      "key_factors": [
+        "Three consecutive 2nd places",
+        "Strong signings",
+        "Squad maturity"
+      ]
+    },
+    "Champions_League": {
+      "league_phase_start": "2025-09-16",
+      "final_date": "2026-05-30",
+      "estimated_probability": 0.08,
+      "key_factors": [
+        "Semi-final experience",
+        "Squad depth",
+        "European competition"
+      ]
+    }
+  },
+  "performance_metrics": {
+    "defensive_strength": 9.2,
+    "attacking_threat": 8.1,
+    "squad_depth": 8.5,
+    "experience": 7.8,
+    "manager_tactical": 8.7,
+    "mental_strength": 7.5
+  },
+  "prediction_factors": [
+    {
+      "factor": "Historical FA Cup Success",
+      "weight": 0.15,
+      "score": 9.5,
+      "competition": "FA_Cup",
+      "weighted_score": 1.425
+    },
+    {
+      "factor": "Current Squad Quality",
+      "weight": 0.2,
+      "score": 8.3,
+      "competition": "All",
+      "weighted_score": 1.6600000000000001
+    },
+    {
+      "factor": "Manager Experience",
+      "weight": 0.15,
+      "score": 8.0,
+      "competition": "All",
+      "weighted_score": 1.2
+    },
+    {
+      "factor": "Squad Depth",
+      "weight": 0.15,
+      "score": 8.5,
+      "competition": "All",
+      "weighted_score": 1.275
+    },
+    {
+      "factor": "Recent Form Trajectory",
+      "weight": 0.1,
+      "score": 8.2,
+      "competition": "All",
+      "weighted_score": 0.82
+    },
+    {
+      "factor": "Key Signings Impact",
+      "weight": 0.15,
+      "score": 8.7,
+      "competition": "All",
+      "weighted_score": 1.305
+    },
+    {
+      "factor": "Mental Resilience",
+      "weight": 0.1,
+      "score": 7.2,
+      "competition": "All",
+      "weighted_score": 0.7200000000000001
+    }
+  ],
+  "overall_strength_score": 8.405000000000001
+}

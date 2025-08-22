@@ -1,0 +1,7 @@
+date,event,competition,probability
+2025-09-23,EFL_Cup starts,EFL_Cup,0.12
+2026-01-10,FA_Cup starts,FA_Cup,0.18
+2026-02-28,EFL_Cup Final,EFL_Cup,0.12
+2026-05-16,FA_Cup Final,FA_Cup,0.18
+2026-05-24,Premier_League Final Day,Premier_League,0.25
+2026-05-30,Champions_League Final,Champions_League,0.08

@@ -1,0 +1,5 @@
+competition,teams_entering,rounds_to_win,difficulty_rating,rotation_friendly
+FA_Cup,736,6,7.2,True
+EFL_Cup,92,6,6.8,True
+Premier_League,20,38,9.1,False
+Champions_League,36,13,9.5,False
